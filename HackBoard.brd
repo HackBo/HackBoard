@@ -172,7 +172,7 @@
 <text x="47.625" y="55.88" size="1.1176" layer="25" font="vector" ratio="13">[ =PWM]</text>
 <text x="-0.5842" y="50.8" size="1.143" layer="25" font="vector" ratio="12" rot="R180">G.Martino</text>
 <text x="-0.5842" y="52.451" size="1.143" layer="25" font="vector" ratio="12" rot="R180">T.Igoe</text>
-<text x="9.1658" y="60.641" size="1.016" layer="1" font="vector" ratio="12" rot="R180">HackBoard
+<text x="13.2298" y="60.514" size="1.016" layer="1" font="vector" ratio="12" rot="R180">HackBoard v0.1
 hackbo.co</text>
 <text x="39.243" y="41.148" size="3.048" layer="25" font="vector" ratio="15">HackBoard</text>
 <text x="33.7522" y="7.4798" size="1.4224" layer="25" font="vector" ratio="10" rot="R90">RST</text>
@@ -13219,7 +13219,7 @@ hackbo.co</text>
 <circle x="35.941" y="40.386" radius="0.523634375" width="0.254" layer="25"/>
 <circle x="33.655" y="42.418" radius="0.5388125" width="0.254" layer="25"/>
 <wire x1="50.038" y1="8.763" x2="64.262" y2="8.763" width="0.3048" layer="25"/>
-<text x="0.7838" y="60.641" size="1.016" layer="16" font="vector" ratio="12" rot="MR180">HackBoard
+<text x="0.7838" y="60.641" size="1.016" layer="16" font="vector" ratio="12" rot="MR180">HackBoard v0.1
 hackbo.co</text>
 <text x="48.133" y="55.245" size="1.27" layer="25" font="vector" ratio="13">~</text>
 <text x="62.865" y="14.097" size="1.016" layer="25" font="vector" ratio="12" rot="R90">www.arduino.cc</text>
